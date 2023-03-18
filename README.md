@@ -1,5 +1,9 @@
 # # FlowCode Development
 
+[flowcode.dev](https://flowcode.dev)
+
+email: hello@mikepeiman.dev
+
 ## Empowering developers with visual thinking
 
 The goal of this project is to provide a tool that allows the use of intuitive visual concept mapping as the primary mode for architecting software. 
